@@ -25,7 +25,7 @@
   <a href="mailto:m.arhamzahid18@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
+  <a href="[https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/muhammad-arham-5b316227b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
@@ -93,5 +93,5 @@
 
 ### Thanks for Visiting! 🚀
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=junaidsalam639&label=Profile%20views&color=0e75b6&style=flat" alt="junaidsalam639" /> 
+  <img src="https://komarev.com/ghpvc/?username=junaidsalam639&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-arham009" /> 
 </p>
